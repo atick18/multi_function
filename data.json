@@ -1,0 +1,37 @@
+{
+  "e": {
+    "name": "Engineering Faculty",
+    "departments": [
+      "Computer Science & Engineering",
+      "Electrical & Electronic Engineering",
+      "Mechanical Engineering",
+      "Civil Engineering"
+    ]
+  },
+  "l": {
+    "name": "Life Science Faculty",
+    "departments": [
+      "Biotechnology",
+      "Microbiology",
+      "Genetic Engineering"
+    ]
+  },
+  "s": {
+    "name": "Science Faculty",
+    "departments": [
+      "Mathematics",
+      "Physics",
+      "Chemistry",
+      "Statistics"
+    ]
+  },
+  "a": {
+    "name": "Arts Faculty",
+    "departments": [
+      "English",
+      "Bangla",
+      "History",
+      "Philosophy"
+    ]
+  }
+}
